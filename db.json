@@ -1,0 +1,85 @@
+{
+  "clients": [
+    {
+      "billerName": "MaryAnne",
+      "amount": "5000",
+      "notes": "asdasd",
+      "id": "b1a6"
+    },
+    {
+      "id": "db42",
+      "billerName": "haas",
+      "amount": "asdasd",
+      "notes": "asdasd"
+    },
+    {
+      "id": "ff89",
+      "billerName": "asdasdad",
+      "amount": "asdasda",
+      "notes": "asdasdasd"
+    },
+    {
+      "id": "fcb8",
+      "billerName": "asdasd",
+      "amount": "12312",
+      "notes": "sdasdads"
+    }
+  ],
+  "users": [
+    {
+      "userName": "Jin",
+      "passWord": 12000,
+      "id": "d6e3"
+    },
+    {
+      "userName": "Anne",
+      "passWord": 14000,
+      "id": "c039"
+    },
+    {
+      "id": "39e8",
+      "username": "maryanne",
+      "password": "123456"
+    },
+    {
+      "id": "af61",
+      "username": "haha",
+      "password": "sdasd"
+    },
+    {
+      "id": "53d7",
+      "username": "haha",
+      "password": "aahaha"
+    },
+    {
+      "id": "84ed",
+      "username": "hahaha",
+      "password": "hahahah"
+    },
+    {
+      "id": "38e7",
+      "username": "asdasd",
+      "password": "asdasd"
+    },
+    {
+      "id": "0e95",
+      "username": "asdasd",
+      "password": "asdads"
+    },
+    {
+      "id": "39eb",
+      "username": "asdasd",
+      "password": "asdasd"
+    },
+    {
+      "id": "ecb8",
+      "username": "asdasd",
+      "password": "asdasdasd"
+    },
+    {
+      "id": "bd50",
+      "username": "kjahskdjasd",
+      "password": "askdjhkasd"
+    }
+  ]
+}
